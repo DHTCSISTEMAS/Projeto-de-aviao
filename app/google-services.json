@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "669672046097",
+    "firebase_url": "https://myskyairlines-default-rtdb.firebaseio.com",
+    "project_id": "myskyairlines",
+    "storage_bucket": "myskyairlines.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669672046097:android:e5cc5fe3e7a9c212b9bbb0",
+        "android_client_info": {
+          "package_name": "com.example.dv.myskyairlines"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCkLqecZXHY6ISHglpAxgcGVTXsVKsL1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
